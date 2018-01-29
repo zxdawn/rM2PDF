@@ -9,6 +9,13 @@ These scripts are based on Linux. You should run scripts on Linux or ![Win10_ubu
 1. Download files from the reMarkable paper tablet;
 2. Combine notes and PDF together.
 
+## Requirments
+
+1. Python
+2. svglib
+`pip install svglib`
+
+
 ## Introduction
 
 1. Download or clone this repository;
@@ -25,7 +32,7 @@ These scripts are based on Linux. You should run scripts on Linux or ![Win10_ubu
 * ![rm-sync](https://github.com/simonschllng/rm-sync)
 * ![rM2svg](https://github.com/reHackable/maxio/tree/master/tools)
 * ![cpdf](https://github.com/coherentgraphics/cpdf-binaries)
-
+* ![svglib](https://github.com/deeplook/svglib)
 ## Support
 
 Raise an issue in this github repository, or email xinzhang1215@gmail.com
