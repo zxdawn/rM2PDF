@@ -13,6 +13,7 @@ These scripts are based on Linux. You should run scripts on Linux or ![Win10_ubu
 
 1. Python
 2. svglib
+
 `pip install svglib`
 
 
