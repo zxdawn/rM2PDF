@@ -37,7 +37,6 @@ pip install svglib
 
 ## Screenshot
 
-![rM](https://github.com/zxdawn/rM2PDF/blob/master/rM_screenshot.png?raw=true)
 
 ## Support
 
