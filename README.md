@@ -30,10 +30,10 @@ pip install svglib
 
 ## Tools used
 
-1. [rm-sync](https://github.com/simonschllng/rm-sync)
-2. [rM2svg](https://github.com/reHackable/maxio/tree/master/tools)
-3. [cpdf](https://github.com/coherentgraphics/cpdf-binaries)
-4. [svglib](https://github.com/deeplook/svglib)
+* [rm-sync](https://github.com/simonschllng/rm-sync)
+* [rM2svg](https://github.com/reHackable/maxio/tree/master/tools)
+* [cpdf](https://github.com/coherentgraphics/cpdf-binaries)
+* [svglib](https://github.com/deeplook/svglib)
 
 ## Screenshot
 
