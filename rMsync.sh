@@ -45,5 +45,5 @@ if [ $? == "0" ]; then
   echo "BACKUP END" >> $LOG
   
   mkdir -p "$OUTPUTDIR"
-  mkdir -p "$OUTPUTDIR"
+  mkdir -p "$TEMPORARYDIR"
 fi
