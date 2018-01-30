@@ -17,7 +17,7 @@ These scripts are based on Linux. You should run scripts on Linux or [Win10_ubun
 pip install svglib
 ```
 
-## Usages
+## Usage
 
 1. Download or clone this repository;
 2. Change the name of directory between `#----------#` and `#----------#` in rMsync.sh and rM2PDF.py.
