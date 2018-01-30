@@ -23,7 +23,7 @@ pip install svglib
 2. Change the name of directory between `#----------#` and `#----------#` in rMsync.sh and rM2PDF.py.
 3. Run rMsync.sh and rM2PDF.py successively.
 
-## Limitaions
+## Limitations
 
 * Duplication in original_pdf folder (You can check [rm-sync](https://github.com/simonschllng/rm-sync) for updates);
 * Converting .line to .svg is superfluous.
