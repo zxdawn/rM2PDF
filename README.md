@@ -17,18 +17,18 @@ These scripts are based on Linux. You should run scripts on Linux or [Win10_ubun
 pip install svglib
 ```
 
-## Introduction
+## Usages
 
 1. Download or clone this repository;
 2. Change the name of directory between `#----------#` and `#----------#` in rMsync.sh and rM2PDF.py.
 3. Run rMsync.sh and rM2PDF.py successively.
 
-## Improvements Needed
+## Limitaions
 
-* Avoid duplicates in original_pdf folder (You can check [rm-sync](https://github.com/simonschllng/rm-sync) for updates);
-* Better combination between Python and Bash Shell.
+* Duplication in original_pdf folder (You can check [rm-sync](https://github.com/simonschllng/rm-sync) for updates);
+* Converting .line to .svg is superfluous.
 
-## Tools used
+## Acknowledgements
 
 * [rm-sync](https://github.com/simonschllng/rm-sync)
 * [rM2svg](https://github.com/reHackable/maxio/tree/master/tools)
