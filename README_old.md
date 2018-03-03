@@ -8,14 +8,13 @@ These scripts are based on Linux. You should run scripts on Linux or [Win10_ubun
 
 1. Download files from the reMarkable paper tablet;
 2. Combine notes and PDF together.
-3. Set the color of stroke. (change line 67, eg. 0: "blue")
 
 ## Requirements
 
 1. Python
-2. [rsvg-convert](http://manpages.ubuntu.com/manpages/trusty/man1/rsvg-convert.1.html)
+2. [svglib](https://github.com/deeplook/svglib)
 ```
-apt-get install librsvg2-bin
+pip install svglib
 ```
 
 ## Introduction
@@ -34,6 +33,7 @@ apt-get install librsvg2-bin
 * [rm-sync](https://github.com/simonschllng/rm-sync)
 * [rM2svg](https://github.com/reHackable/maxio/tree/master/tools)
 * [cpdf](https://github.com/coherentgraphics/cpdf-binaries)
+* [svglib](https://github.com/deeplook/svglib)
 
 ## Screenshot
 
