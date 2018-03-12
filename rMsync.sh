@@ -13,7 +13,7 @@ SSHPORT="22"
 
 # Local configuration
 #---------------------------------------------------------------------#
-MAINDIR="/mnt/d/rM"
+MAINDIR="/mnt/d/Github/rM2PDF"
 BACKUPDIR="$MAINDIR/original_pdf/"      # Download all rM contents
 OUTPUTDIR="$MAINDIR/noted_pdf/"         # PDFs of everything on the rM
 TEMPORARYDIR="$MAINDIR/temporary/"
